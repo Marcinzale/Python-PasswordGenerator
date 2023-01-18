@@ -25,7 +25,3 @@ else:
     print("Bye!\n")
     
 input("Press any key to exit...\n\n")
-
-
-
-
